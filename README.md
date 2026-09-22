@@ -33,9 +33,17 @@ El flujo de la aplicación se divide en dos fases principales, garantizando una 
 - ⚡ **Splash Screen Nativo:** Carga optimizada e integrada a nivel de sistema operativo para Android e iOS.
 
 ---
-<img width="390" height="792" alt="image" src="https://github.com/user-attachments/assets/50284189-8725-4504-89e0-ad1c1fa1febc" />
-<img width="395" height="805" alt="image" src="https://github.com/user-attachments/assets/051633e9-20f8-482f-9cbd-2e5e6ed60b8d" />
-
+## 📱 Vistazo a la App
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://github.com/user-attachments/assets/50284189-8725-4504-89e0-ad1c1fa1febc" alt="Countdown Screen" width="250"/></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/051633e9-20f8-482f-9cbd-2e5e6ed60b8d" alt="Event Screen" width="250"/></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/919cc85f-d816-416a-9c0e-9b3eb3e1444e" alt="Celebration Screen" width="250"/></td>
+    </tr>
+  </table>
+</div>
+---
 
 ## 🛠️ Arquitectura y Tech Stack (Technical Overview)
 
